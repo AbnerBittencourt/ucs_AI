@@ -1,4 +1,4 @@
-# Uniform Search for IA
+# Uniform Search for AI
 
 Uniform search algorithm with incidence list implemented in JavaScript for college AI subjects.
 
